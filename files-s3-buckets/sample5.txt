@@ -1,0 +1,4 @@
+Key Features
+Durability & Availability: Designed for 99.999999999% (11 nines) durability by redundantly storing data across multiple devices and at least three Availability Zones (AZs) by default.
+Scalability: Virtually unlimited storage capacity. Individual objects can range from 0 bytes to 5 TB.
+Consistency: Provides strong read-after-write consistency for all applications.
