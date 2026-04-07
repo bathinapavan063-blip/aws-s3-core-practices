@@ -1,0 +1,1 @@
+Keys: The unique name for an object within a bucket, often mimicking a folder structure (e.g., images/photo.jpg)
